@@ -4,7 +4,7 @@
  * 
  */
 
-namespace Inc\Api\Callbacks;
+namespace Inc\Api\CallBacks;
 use Inc\Base\BaseController;
 
 class AdminCallBacks extends BaseController{
